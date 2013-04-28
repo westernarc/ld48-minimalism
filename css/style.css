@@ -1,8 +1,15 @@
 body {
-  background-color: #eee;
+	color: #888; 
+	font-family: Arial; 
+	margin:0px;
+	a:link {color:#888;}      /* unvisited link */
+	a:visited {color:#555;}  /* visited link */
+	a:hover {color:#aaa;}  /* mouse over link */
+	a:active {color:#ccc;}  /* selected link */
 }
 
 #canvas {
-  margin-left: auto;
   box-shadow: 1px 0px 10px 0px #aaa;
+  margin:10px auto;
+  display: block;
 }
