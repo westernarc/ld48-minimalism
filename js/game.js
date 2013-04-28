@@ -65,7 +65,7 @@ window.addEventListener("mousedown", function(e) {
   player.x = canvas.width/2;
   player.y = canvas.height/2 + 1;
   
-  life = 1;
+  life = 100;
   score = 0;
   
   dead = false;
