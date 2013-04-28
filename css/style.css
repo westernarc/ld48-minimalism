@@ -1,0 +1,8 @@
+body {
+  background-color: #eee;
+}
+
+#canvas {
+  margin-left: auto;
+  box-shadow: 1px 0px 10px 0px #aaa;
+}
